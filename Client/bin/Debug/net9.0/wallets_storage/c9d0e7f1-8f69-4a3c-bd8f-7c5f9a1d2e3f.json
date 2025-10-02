@@ -1,0 +1,30 @@
+{
+    "Id": "c9d0e7f1-8f69-4a3c-bd8f-7c5f9a1d2e3f",
+    "Name": "Долларовый кошелек",
+    "Currency": 2,
+    "Transactions": [
+      {
+        "Id": "d0e2f8a5-9f78-4b2d-8c9f-8e6f9b0d1a2c",
+        "TransactionDate": "2025-10-01T08:15:00",
+        "Amount": 1000.00,
+        "Type": 0,
+        "Description": "Продажа товара"
+      },
+      {
+        "Id": "e1f3a9b6-0a89-4c3d-9d0f-9f7e0c1b2d3e",
+        "TransactionDate": "2025-10-02T14:30:00",
+        "Amount": 300.00,
+        "Type": 1,
+        "Description": "Онлайн-покупка"
+      },
+      {
+        "Id": "f2a4b0c7-1b90-4d4e-af1a-0a8f1d2c3e4f",
+        "TransactionDate": "2025-10-02T20:00:00",
+        "Amount": 150.50,
+        "Type": 1,
+        "Description": "Ресторан"
+      }
+    ],
+    "InitialBalance": 2000.00,
+    "ConcurrencyToken": "c3b5c1d8-2c01-4f5f-bf2b-1a9e2d3f4b5c"
+  }

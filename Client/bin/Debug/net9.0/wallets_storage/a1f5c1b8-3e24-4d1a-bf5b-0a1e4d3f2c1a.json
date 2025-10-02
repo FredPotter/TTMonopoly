@@ -1,0 +1,23 @@
+{
+    "Id": "a1f5c1b8-3e24-4d1a-bf5b-0a1e4d3f2c1a",
+    "Name": "Основной кошелек",
+    "Currency": 0,
+    "Transactions": [
+      {
+        "Id": "b2d5e3c9-4f12-47d8-9a2b-1e3f5c4d6a2b",
+        "TransactionDate": "2025-10-01T09:30:00",
+        "Amount": 5000.00,
+        "Type": 0,
+        "Description": "Зарплата"
+      },
+      {
+        "Id": "c3e7f4d0-5a23-48c1-8b3c-2f4d6b5e7c3d",
+        "TransactionDate": "2025-10-02T12:00:00",
+        "Amount": 1200.50,
+        "Type": 1,
+        "Description": "Покупка продуктов"
+      }
+    ],
+    "InitialBalance": 10000.00,
+    "ConcurrencyToken": "d4f8a5e1-6b34-4f2d-9c4e-3a5b6d7e8f4c"
+  }

@@ -1,0 +1,23 @@
+{
+    "Id": "e5f9b6c2-7c45-4d2b-af6d-4b2f7e9c5d6e",
+    "Name": "Европейский кошелек",
+    "Currency": 1,
+    "Transactions": [
+      {
+        "Id": "f6a1c7d3-8d56-49e3-bf7e-5c3f8d9e6a7f",
+        "TransactionDate": "2025-09-28T15:45:00",
+        "Amount": 250.75,
+        "Type": 0,
+        "Description": "Фриланс"
+      },
+      {
+        "Id": "a7b2d8e4-9e67-4f1a-9c8f-6d4e7f0b8c9a",
+        "TransactionDate": "2025-09-29T18:20:00",
+        "Amount": 80.00,
+        "Type": 1,
+        "Description": "Кафе"
+      }
+    ],
+    "InitialBalance": 500.00,
+    "ConcurrencyToken": "b8c3d9f5-0f78-4e3b-8a9d-7e5f8c0d9b1a"
+  }

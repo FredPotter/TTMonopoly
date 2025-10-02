@@ -14,6 +14,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationTests", "ApplicationTests\ApplicationTests.csproj", "{51080EBA-F06B-4E27-A893-C869473E0B59}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExampleData", "ExampleData", "{ADAD9A73-E735-4302-9E74-F40F32FFED2C}"
+	ProjectSection(SolutionItems) = preProject
+		Client\bin\Debug\net9.0\wallets_storage\c9d0e7f1-8f69-4a3c-bd8f-7c5f9a1d2e3f.json = Client\bin\Debug\net9.0\wallets_storage\c9d0e7f1-8f69-4a3c-bd8f-7c5f9a1d2e3f.json
+		Client\bin\Debug\net9.0\wallets_storage\a1f5c1b8-3e24-4d1a-bf5b-0a1e4d3f2c1a.json = Client\bin\Debug\net9.0\wallets_storage\a1f5c1b8-3e24-4d1a-bf5b-0a1e4d3f2c1a.json
+		Client\bin\Debug\net9.0\wallets_storage\e5f9b6c2-7c45-4d2b-af6d-4b2f7e9c5d6e.json = Client\bin\Debug\net9.0\wallets_storage\e5f9b6c2-7c45-4d2b-af6d-4b2f7e9c5d6e.json
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
